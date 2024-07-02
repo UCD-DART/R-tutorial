@@ -1,4 +1,6 @@
-# Creating Custom Reports in R using the VectorSurv API
+# IMPORTANT NOTE: Please see our new repository 'vectorsurvR' for details on using R in VectorSurv found here: https://github.com/UCD-DART/vectorsurvR. In addition, you can install.packages("vectorsurvR) to get a full library of updated VectorSurv functions. The following R-workshop repository does not reflect the current recommended code and functions for data access and processing. 
+
+## Creating Custom Reports in R using the VectorSurv API
 
 This repository includes code for VectorSurv users to access their agency's data in R using the VectorSurv API and create reports using RMarkdown.
 
